@@ -38,6 +38,8 @@ Prompt Engineering Layer (bot_engine.py)
 Google Gemini 1.5 Flash Model
        ↓
 Response Output
+
+
 🧠 Features
 🔹 Domain-Specific Intelligence
 TechGuide AI is fine-tuned to only answer questions related to:

@@ -1,4 +1,4 @@
-<h1 align="center">⚡ TechGuide AI</h1>
+<h1 align="center">⚡ TechGuide AI Chatbot </h1>
 
 <p align="center">
 TechGuide AI is a domain-focused, production-grade Generative AI assistant built to answer high-level technical questions in <b>Software Engineering, Cloud Computing, AWS, and System Design</b>.

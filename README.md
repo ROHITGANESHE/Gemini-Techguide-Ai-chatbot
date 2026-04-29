@@ -258,6 +258,7 @@ streamlit run app.py --server.port 8501 --server.address 0.0.0.0
 <b>Rohit Ganeshe</b><br>
 AI & ML Engineer | Cloud & Software Engineering Enthusiast<br>
 🔗 https://www.linkedin.com/in/rohit-ganeshe-rsg030/
+🌐 Live Demo: (https://lnkd.in/d9kM89Vp)
 </p>
 
 <hr>
